@@ -8,6 +8,7 @@
 
 ## 일정
 * 1주차(2022/05/24) : [**1장 리팩터링: 첫 번째 예시**](https://github.com/hmg0616/refactoring-study/issues/1), 발표자 : 권동희
+* 2주차(2022/06/07) : [**2장 리팩터링 원칙**](https://github.com/hmg0616/refactoring-study/issues/2), 발표자 : 김유진
 
 > 종료 후 책거리 및 추후 스터디 진행 도서 선정 예정
 
